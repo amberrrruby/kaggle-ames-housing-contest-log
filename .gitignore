@@ -1,0 +1,8 @@
+*.md
+!README.md
+*.txt
+*.csv
+*.pkl
+
+__pycache__/
+datasets/
